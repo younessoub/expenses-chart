@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://younessoub.github.io/csb-16xqq1/static/css/main.7b27daec.chunk.css",
+    "main.js": "https://younessoub.github.io/csb-16xqq1/static/js/main.28a466a5.chunk.js",
+    "main.js.map": "https://younessoub.github.io/csb-16xqq1/static/js/main.28a466a5.chunk.js.map",
+    "runtime-main.js": "https://younessoub.github.io/csb-16xqq1/static/js/runtime-main.80d3951e.js",
+    "runtime-main.js.map": "https://younessoub.github.io/csb-16xqq1/static/js/runtime-main.80d3951e.js.map",
+    "static/js/2.8cfba53a.chunk.js": "https://younessoub.github.io/csb-16xqq1/static/js/2.8cfba53a.chunk.js",
+    "static/js/2.8cfba53a.chunk.js.map": "https://younessoub.github.io/csb-16xqq1/static/js/2.8cfba53a.chunk.js.map",
+    "index.html": "https://younessoub.github.io/csb-16xqq1/index.html",
+    "static/css/main.7b27daec.chunk.css.map": "https://younessoub.github.io/csb-16xqq1/static/css/main.7b27daec.chunk.css.map",
+    "static/js/2.8cfba53a.chunk.js.LICENSE.txt": "https://younessoub.github.io/csb-16xqq1/static/js/2.8cfba53a.chunk.js.LICENSE.txt",
+    "static/media/logo.99d5b913.svg": "https://younessoub.github.io/csb-16xqq1/static/media/logo.99d5b913.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80d3951e.js",
+    "static/js/2.8cfba53a.chunk.js",
+    "static/css/main.7b27daec.chunk.css",
+    "static/js/main.28a466a5.chunk.js"
+  ]
+}
